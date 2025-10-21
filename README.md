@@ -35,23 +35,5 @@
 - 📈 **Sales Dashboard (Excel & Power BI):** Created an interactive dashboard highlighting sales trends, regional performance, and KPIs.  
 - 🐍 **Data Cleaning & Analysis (Python, Pandas):** Automated data preprocessing and generated statistical summaries using Python libraries.  
 
----
-
-### 📚 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raviiidhakad&show_icons=true&theme=radical" alt="Ravi's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviiidhakad&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
-</p>
-
----
 
 ⭐ *“Data is the new oil, and I love refining it into insights.”*
