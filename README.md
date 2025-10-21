@@ -10,8 +10,7 @@
 - 💬 Ask me about **Power BI, Excel, SQL, Python, and DAX**
 - 📈 Passionate about turning raw data into actionable insights that drive decisions
 - 📫 How to reach me: **[raviiidhakad@gmail.com](mailto:raviiidhakad@gmail.com)**
-- ☕ Fun fact: I love exploring data trends with some lo-fi beats and a cup of chai!
-
+- ☕ Fun fact: I love finding stories in data while sipping chai ☕ | Give insights like stories with flow. | I believe every dataset has a secret — you just need the right query to find it.
 ---
 
 ### 🧰 Languages and Tools:
