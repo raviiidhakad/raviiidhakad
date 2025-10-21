@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, This is RAVI DHAKAD</h1>
 
-<!--
-**raviiidhakad/raviiidhakad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Data Analyst | Power BI Enthusiast | Insight Storyteller | Problem Solver</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 I’m currently working on **Data Visualization and Dashboard Projects**
+- 💬 Ask me about **Power BI, Excel, SQL, Python, and DAX**
+- 📈 Passionate about turning raw data into actionable insights that drive decisions
+- 📫 How to reach me: **[raviiidhakad@gmail.com](mailto:raviiidhakad@gmail.com)**
+- ☕ Fun fact: I love exploring data trends with some lo-fi beats and a cup of chai!
+
+---
+
+### 🧰 Languages and Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-7A68AD?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 📊 Featured Projects
+- 🏥 **Hospital Emergency Visualization (Power BI):** Analyzed patient data to uncover key metrics such as total patients, department load, and emergency response time.  
+- 📈 **Sales Dashboard (Excel & Power BI):** Created an interactive dashboard highlighting sales trends, regional performance, and KPIs.  
+- 🐍 **Data Cleaning & Analysis (Python, Pandas):** Automated data preprocessing and generated statistical summaries using Python libraries.  
+
+---
+
+### 📚 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raviiidhakad&show_icons=true&theme=radical" alt="Ravi's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviiidhakad&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
+</p>
+
+---
+
+⭐ *“Data is the new oil, and I love refining it into insights.”*
